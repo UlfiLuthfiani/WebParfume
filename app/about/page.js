@@ -1,4 +1,3 @@
-// app/about/page.js
 
 export const metadata = {
   title: "About Us | Lumière Fragrance",
